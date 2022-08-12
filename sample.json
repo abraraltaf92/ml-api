@@ -1,0 +1,6 @@
+{
+    "YearsAtCompany": 1, //float value
+    "EmployeeSatisfaction": 0.01, // float value
+    "Position": "Non-Manager", // string value !(Non-Manager, Manager)
+    "Salary" : 4 // int value (1,2,3,4)
+}
